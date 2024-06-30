@@ -13,3 +13,9 @@
 * Communication
 * Attention to Detail
 * Multitasking
+## Education
+__Belarus State Economic University__
+* __Logistics economist__
+
+__Baranovichi State College of Light Industry. V.E. Chernyshev__ 
+* __Marketing economist__ 
