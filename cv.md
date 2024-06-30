@@ -19,3 +19,15 @@ __Belarus State Economic University__
 
 __Baranovichi State College of Light Industry. V.E. Chernyshev__ 
 * __Marketing economist__ 
+## Code Examples
+```
+function multiply(a, b){
+  a * b
+}
+```
+## Languages
+* Russian - native speaker
+* Belarusan - native speaker
+* English - A2 
+## Complete projects
+1. [My CV](https://github.com/AnastasiaPilipchuk/rsschool-cv)
