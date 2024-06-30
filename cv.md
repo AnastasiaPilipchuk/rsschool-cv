@@ -1,1 +1,2 @@
-*Анастасия Пилипчук*
+# Anastasia Pilipchuk
+## Contacts for communication
